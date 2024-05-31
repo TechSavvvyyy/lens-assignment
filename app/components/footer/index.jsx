@@ -13,7 +13,7 @@ const Footer = () => {
                 </a>
 
               </div>
-            <div className={"lg:mb-12"}> Tomorrow's Vision, Today!</div>
+            <div className={"lg:mb-12"}> Tomorrow Vision, Today!</div>
               <div className={"flex gap-x-4"}>
                   <a href="https://www.facebook.com/solutions.lenscorp?mibextid=2JQ9oc" target="_blank"
                      rel="noopener noreferrer">
