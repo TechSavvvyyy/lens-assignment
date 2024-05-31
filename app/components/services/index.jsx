@@ -1,7 +1,4 @@
 import React from "react";
-import LensTitle from "../common-used-components/LensTitle";
-import Image from "next/image";
-import LensButton from "../common-used-components/LensButton";
 import ServiceCard from "./card/ServiceCard";
 import GradientLine from "../common-used-components/GradientLine";
 import LensSubTitle from "../common-used-components/LensSubTitle";

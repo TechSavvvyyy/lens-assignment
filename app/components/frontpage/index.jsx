@@ -1,6 +1,5 @@
 import React from 'react'
 import Image from "next/image";
-import {Button} from "@mantine/core";
 import LensButton from "../common-used-components/LensButton";
 
 const FrontPage = () => {

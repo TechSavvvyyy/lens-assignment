@@ -1,5 +1,4 @@
 import React from "react";
-
 const UnfilledLensButton = ({
                         text,
                         className

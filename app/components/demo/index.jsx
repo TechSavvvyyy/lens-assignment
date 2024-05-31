@@ -1,6 +1,5 @@
 import React from 'react'
 import LensTitle from "../common-used-components/LensTitle";
-import Image from "next/image";
 
 const Demo = () => {
   return (

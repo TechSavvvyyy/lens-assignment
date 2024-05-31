@@ -1,7 +1,6 @@
 import React from "react";
 import LensTitle from "../common-used-components/LensTitle";
 import Image from "next/image";
-import LensButton from "../common-used-components/LensButton";
 import GradientLine from "../common-used-components/GradientLine";
 import UnfilledLensButton from "../common-used-components/UnfilledLensButton";
 

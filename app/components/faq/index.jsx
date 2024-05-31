@@ -1,5 +1,4 @@
 "use client"
-
 import React from 'react'
 import { Accordion } from '@mantine/core';
 import LensTitle from "../common-used-components/LensTitle";
