@@ -1,0 +1,13 @@
+.rank4Gradient:hover{
+    background: linear-gradient(to right, #FF9F31 70%, white);
+}
+.rank3Gradient:hover{
+    background: linear-gradient(to right, #FF605F 70%, white);
+}
+.rank2Gradient:hover{
+    background: linear-gradient(to right,#3FBDF1,  70%, white);
+}
+.rank1Gradient:hover{
+    background: linear-gradient(to right, #01C99B, 70%, white);
+}
+

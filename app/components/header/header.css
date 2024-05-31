@@ -1,0 +1,3 @@
+.nav__link:active{
+    background: var(--gr-4, linear-gradient(54deg, #0091ff 0, #9cfeff 100%)) ;
+}
